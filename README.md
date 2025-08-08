@@ -94,7 +94,7 @@ git push -u origin main
 
 ### 5️⃣ Feature Work & PR
 - Work done in `feature` branch  
-- Pushed changes → PR to `dev` → PR to `main`
+- Pushed changes → PR to `feature` → PR to `main`
 
 ### 6️⃣ Creating Merge Conflict
 - Edited the **same line** in `main` and `feature` differently  
