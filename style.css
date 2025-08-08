@@ -1,7 +1,7 @@
 /* styles.css - polished landing page for Task 4 project */
 
 /* Reset */
-* { box-sizing: border-box; margin: 0; padding: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; align-items: center;}
 html,body { height: 100%; }
 
 /* Fonts & base */
